@@ -5,5 +5,6 @@ The aim of this project is to analyze the conversion rates between an old and ne
 <b> Tools </b>
 
 Ir order to complete this project, I've used:
-    *Python (Numpy, Pandas, Matplotlib, StatsModels, Scipy)
-    *Jupyter Notebook
+
+      *Python (Numpy, Pandas, Matplotlib, StatsModels, Scipy)
+      *Jupyter Notebook
