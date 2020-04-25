@@ -1,6 +1,6 @@
 # Analyze AB Test Results
 
-<b> Overview </b>
+## <b> Overview </b>
 
 The aim of this project is to analyze the conversion rates between an old and new website for an e-commerce company in order to check if the website change makes sense. Therefore, by analyzing the results of an AB Test, the goal is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
@@ -20,14 +20,14 @@ Logistic regression was then performed to confirm results of the previous steps.
 
 Next, along with testing if the conversion rate changes for different pages, I added an effect based on which country a user lives. Statistical output using logistic regression was provided to check if country had an impact on conversion.
 
-<b> Tools </b>
+## <b> Tools </b>
 
 Ir order to complete this project, I've used:
 
 1. Python (Numpy, Pandas, Matplotlib, StatsModels)
 2. Jupyter Notebook
 
-<b> Conclusion </b> 
+## <b> Conclusion </b> 
 
 There was no statistic evidence that the new page had a better conversion rate than the old one. Besides that, the user's country had no impact the conversion rate.
 
