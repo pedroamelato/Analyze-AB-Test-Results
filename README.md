@@ -22,7 +22,7 @@ Next, along with testing if the conversion rate changes for different pages, I a
 
 Ir order to complete this project, I've used:
 
-1. Python (Numpy, Pandas, Matplotlib, StatsModels, Scipy)
+1. Python (Numpy, Pandas, Matplotlib, StatsModels)
 2. Jupyter Notebook
 
 <b> Conclusion </b> 
